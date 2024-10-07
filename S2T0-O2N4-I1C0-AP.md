@@ -1,4 +1,4 @@
-# Vaga Desenvolvedor(a) PHP/WordPress
+# Vaga Desenvolvedor(a) PHP/WordPress Pleno
 
 - **Vaga**: Programador(a) PHP / WordPress 
 - **Modelo Híbrido**: 3 dias Home office/ 2 dias Presenciais
@@ -14,7 +14,7 @@ Empresa está em busca de desenvolvedores PHP com experiência comprovada em **P
 ### Envio de Documentação
 Para participar da seleção, siga as instruções abaixo:
 
-- Envie seu currículo em formato PDF para o e-mail: **wezo@wezo.com.br**
+- Envie seu currículo em formato PDF para o e-mail: **selecao@tonica.ag**
 - **Assunto do e-mail**: SELEÇÃO WORDPRESS ID: S2T0-O2N4-I1C0-AP
 - No corpo do e-mail, inclua uma **carta de apresentação** com:
     - Pretenção Salarial em R$/Mensal; 
@@ -22,7 +22,7 @@ Para participar da seleção, siga as instruções abaixo:
     - A URL do repositório GitHub com os plugins criados para a seleção (nome do repositório: **skills-wordpress**).
     - **Respostas para as questões abaixo** (detalhadas na seção "Teste de Lógica na Carta de Apresentação").
 
-## 2. Instruções para Criação dos Plugins
+## 2. Instruções para Teste de Aplicação para a Vaga (Criação dos Plugins)
 
 A pessoa deve criar um repositório GitHub público nomeado **skills-wordpress** contendo três plugins que abordam as tarefas descritas a seguir.
 
